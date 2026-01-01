@@ -1,14 +1,14 @@
   # 01. Global Superstore Sales Dashboard
 
-  ##Project Overview
+  **Project Overview**
 
   This Power BI project analyzes the Global Superstore dataset to visualize sales performance and profitability. The primary goal is to identify key trends and provide actionable recommendations to drive business strategy.
 
-  ##Dashboard Preview
+  **Dashboard Preview**
 
   ![Dashboard Preview](dashboard_screenshot.png)
 
-  ##Insights & Recommendations
+  **Insights & Recommendations**
 
   *  **Insight 1 : Profitability Concern**
      * The Central region, despite generating sales, suffers from extremely low or even negative profit margins, especially within the Furniture category.
@@ -22,7 +22,7 @@
      *   Emerging markets, particularly in Africa, have a very small sales footprint and represent a significant growth opportunity.
      *   **Recommendation:** Propose a pilot marketing campaign in a key Africa market to test viability and assess the potential for long-term expansion.
 
-  ##Technical Skills Demonstrated
+  **Technical Skills Demonstrated**
 
   * **Power BI:** Data Modeling(Star Schema), Power Query for data transformation.
   * **DAX:** Creation of key measures('Total Sales', 'Total Profit', 'Total Quantity').
