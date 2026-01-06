@@ -8,6 +8,14 @@
 
   ![Dashboard Preview](dashboard_screenshot.png)
 
+  ---
+  ## Trend Analysis Page
+  To provide deeper insights into performance over time, a second page was added to the report. This page features a line chart showing monthly sales trends and   a Year-to-Date(YTD) sales KPI that dynamically responds to the year selected in the slicer.
+
+  ![Trend Analysis Page](trend_analysis_screenshot.png)
+
+  ---
+
   **Insights & Recommendations**
 
   *  **Insight 1 : Profitability Concern**
